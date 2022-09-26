@@ -1,6 +1,6 @@
 # Vigenere-Cipher-Encoder-Decoder
 Usage: cargo run [input file] [e/d] [key]
-  <br>
+  <br><br>
 Instructions: Write any message you want in the input file to be encoded or decoded using the Vigenère cipher.
 I used test.txt as my input file if you would also like to use it as well, but any text file can be used.
 "e" indicates encoding the input file while "d" indicates decoding the input file. All encoded messages will be
